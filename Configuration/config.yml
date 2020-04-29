@@ -1,0 +1,21 @@
+applicationURL : http://localhost:3000/login
+username: hamza
+email: hamza@gmail.com
+password: 12345678
+confirmPassword:  12345678
+LinkedInURL: www.linkedin.com
+TwitterURL: www.twitter.com
+title: New Tutition
+description:  none
+link: www.facebook.com
+sYear: 2021
+sMonth: April
+sDay: 30
+sHour: 10
+sMinute: 10
+eYear: 2021
+eMonth: June
+eDay: 15
+eHour: 14
+eMinute: 15
+editTitle: edit
